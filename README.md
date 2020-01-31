@@ -1,0 +1,2 @@
+# spellcheker
+gand mar do
